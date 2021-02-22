@@ -1,3 +1,6 @@
-# ppedvAG.github.io
+# PPEDVAG.GITHUB.IO
+
 Ein Repo zum Testen von GitHub Pages for Organizations
-ACHTUNG: obwohl das Repo private ist, sind die Inhalte öffentlich!
+
+Um die Page zu sehen, nimm diesen Link:
+<https://ppedvag.github.io/>
